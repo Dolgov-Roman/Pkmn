@@ -19,7 +19,7 @@ public class AttackSkill implements Serializable {
         this.damage = damage;
     }
 
-    // Геттеры и сеттеры
+   
     public String getName() {
         return name;
     }
